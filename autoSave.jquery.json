@@ -1,0 +1,30 @@
+{
+    "name": "autoSave",
+    "title": "jQuery autoSave",
+    "description": "Auto-Save your content when editing in HTML input and textarea DOM element.",
+    "keywords": [
+        "autoSave"
+    ],
+    "version": "1.0.3",
+    "author": {
+        "name": "Amol Vaze",
+        "url": "https://amol2112.wordpress.com/about/"
+    },
+    "maintainers": [
+        {
+            "name": "Amol Vaze",
+            "email": "mailmeamol2112@gmail.com",
+            "url": "https://amol2112.wordpress.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "UTD",
+            "url": "http://utdallas.edu/~asv130130/"
+        }
+    ],
+    "bugs": "https://github.com/amolvaze",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
